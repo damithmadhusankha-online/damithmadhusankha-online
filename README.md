@@ -1,4 +1,4 @@
-<!-- 🔥 Animated Banner -->
+<!-- 🔥 Animated Banner --> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAA,100:000000&height=200&section=header&text=Damith%20Madhushanka&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
